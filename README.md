@@ -57,8 +57,6 @@ ai-capstone/
 
 ## 🛠️ Installation
 
-### 1. Clone the repository
-
 ```bash
 git clone https://github.com/your-username/ai-capstone.git
 cd ai-capstone
